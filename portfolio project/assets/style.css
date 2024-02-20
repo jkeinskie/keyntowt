@@ -1,0 +1,249 @@
+
+body{
+	background-color: #353757;
+	
+}
+
+.bruh{
+	margin: 30px;
+	margin-left: 58%;
+	
+}
+#ph{
+	color: white;
+	margin: 35px;
+	text-decoration: none;
+	
+
+}
+#ph:hover{
+	color: skyblue;
+}
+#pa{
+	color: white;
+	margin: 35px;
+	text-decoration: none;
+	
+}
+#pa:hover{
+	color: skyblue;
+}
+#pp{
+	color: white;
+	margin: 35px;
+	text-decoration: none;
+
+}
+#pp:hover{
+	color: skyblue;
+
+}
+#pm{
+	color: white;
+	margin: 35px;
+	text-decoration: none;
+	
+}
+#pm:hover{
+	color: skyblue;
+}
+#jkeim{
+	position: absolute;
+	top:180px;
+	margin: 10%;
+	color: white;
+	font-size: 50px;
+	font-family: timesnewroman;
+}
+#i{
+	color: white;
+	top:50px;
+	
+}
+#k{
+	font-size: 18px;
+
+}
+#z{
+	font-size: 20px;
+	padding: 15px;
+	color: white;
+	background-color: #086C7E;
+	outline: none;
+	border-radius: 10px;
+	font-family: serif;
+
+}
+#z:hover{
+	background-color: #2C3C69;
+}
+#z:active{
+
+
+}
+
+img{
+	width: 450px;
+	height: 450px;		
+	margin: 90px;
+	margin-left: 800px;
+	border-radius: 40px;
+	border-style: solid;
+	border-color: skyblue;
+	shad
+
+}
+img:hover{
+
+	border-color: pink;
+}
+
+#st{
+
+	color: deepskyblue;
+}
+#quote{
+
+	color: lightgray;
+	font-size: 13px;
+	position: relative;
+	left: 800px;
+	bottom: 80px;
+}
+
+html{
+	overflow: scroll;
+}
+body{
+	background-color: #353757;
+
+}
+#q1{
+
+  color: white;
+  position: relative;
+  top: 115px;
+  left: 50px;
+  font-size: 20px;
+
+}
+.pg{
+
+  position: relative;
+  bottom: 61px;
+  left: 58%;
+}
+#h{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  position: relative;
+  
+
+}
+#h:hover{
+  color: skyblue;
+}
+#a{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  
+
+}
+#a:hover{
+  color: skyblue;
+}
+#p{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+
+
+}
+#p:hover{
+  color: skyblue;
+
+}
+#m{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  
+}
+#m:hover{
+  color: skyblue;
+}
+#ans{
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 40px;
+}
+#q2{
+
+  color: white;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  font-size: 18px;
+}
+#ans1{
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 50px;
+}
+#q3{
+   color: white;
+  position: relative;
+  top: 60px;
+  left: 50px;
+  font-size: 18px;
+}
+#ans2{
+
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 60px;
+
+}
+#img1{
+
+	width: 600px;
+	height: 600px;
+	position: relative;
+	left: 760px;
+	bottom: 470px;
+}
+#img1:hover{
+
+	border-color: pink;
+}
+#header{
+	position: relative;
+	color: white;
+	font-size: 40px;
+	right: 570px;
+	bottom: 1140px;
+}
+#pr{
+	margin-top: 50px;	
+
+}
+#q4{
+
+  color: white;
+  position: relative;
+   left: 50px;
+  font-size: 18px;
+  top: 70px;
+}
+#ans3{
+
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 70px;
+}

@@ -1,0 +1,138 @@
+html{
+	overflow: scroll;
+}
+body{
+	background-color: #353757;
+
+}
+#q1{
+
+  color: white;
+  position: relative;
+  top: 115px;
+  left: 50px;
+  font-size: 20px;
+
+}
+.pg{
+
+  position: relative;
+  bottom: 61px;
+  left: 53%;
+}
+#h{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  position: relative;
+  
+
+}
+#h:hover{
+  color: skyblue;
+}
+#a{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  
+
+}
+#a:hover{
+  color: skyblue;
+}
+#p{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+
+
+}
+#p:hover{
+  color: skyblue;
+
+}
+#m{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  
+}
+#m:hover{
+  color: skyblue;
+}
+#ans{
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 40px;
+}
+#q2{
+
+  color: white;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  font-size: 18px;
+}
+#ans1{
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 50px;
+}
+#q3{
+   color: white;
+  position: relative;
+  top: 60px;
+  left: 50px;
+  font-size: 18px;
+}
+#ans2{
+
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 60px;
+
+}
+#img1{
+
+	width: 600px;
+	height: 600px;
+	position: relative;
+	left: 760px;
+	bottom: 470px;
+}
+#img1:hover{
+
+	border-color: pink;
+}
+#header{
+	position: relative;
+	color: white;
+	font-size: 40px;
+	right: 570px;
+	bottom: 1140px;
+  font-family: cursive;
+  text-decoration: none;
+}
+#pr{
+	margin-top: 50px;	
+
+}
+#q4{
+
+  color: white;
+  position: relative;
+   left: 50px;
+  font-size: 18px;
+  top: 70px;
+}
+#ans3{
+
+	color: gray;
+	left: 45px;
+	position: relative;
+	top: 70px;
+}

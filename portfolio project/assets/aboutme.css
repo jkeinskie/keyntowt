@@ -1,0 +1,301 @@
+
+html{
+overflow: hidden;
+
+}
+body{
+
+  background: linear-gradient(
+    to right,
+    #353757 0%,
+    #353757 28%,
+    #C7C8CC 20%,
+    #C7C8CC 0%
+  );
+
+}
+#img{
+  border-radius: 50%;
+  width: 15%;
+  height:15%;
+  position: relative;
+  left:75px;
+  top: 30px;
+  border: solid;
+  border-color: skyblue;
+
+}
+#img:hover{
+
+  border-color: pink;
+}
+#head{
+
+  position: relative;
+  top: 70px;
+  right: 145px;
+  font-family: sans-serif;
+  color: white;
+}
+#fr{
+  position: relative;
+  color: orange;
+  top: 100px;
+  font-size: 13px;
+  right: 340px;
+}
+#co{
+
+  color: white;
+  position: relative;
+  top: 135px;
+  left: 30px;
+}
+#no{
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 126px;
+  right: 29px;
+  font-family: sans-serif;
+
+}
+#em{
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 150px;
+  right: 125px  ;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+#fb{
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 178px;
+  right: 291px;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+#loc{
+
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 210px;
+  right: 430px;
+  font-family: sans-serif;
+  text-decoration: none;
+
+
+}
+#logo1{
+
+  position: relative;
+  height: 15px;
+  width: 20px;
+  top: 155px;
+  left: 30px;
+
+}
+#logo2{
+
+  position: relative;
+  height: 16px;
+  width: 16px;
+  top: 130px;
+  left: 5px;
+}
+#logo3{
+
+  position: relative;
+  height: 20px;
+  width: 20px;
+  top: 185px;
+  right: 17px;
+}
+#logo4{
+
+  position: relative;
+  height: 20px;
+  width: 20px;
+  top: 215px;
+  right: 42px;
+}
+#sk{
+
+  color: white;
+  position: relative;
+  top: 230px;
+  left: 30px;
+}
+#sk1{
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 220px;
+  left: 15;
+  font-family: sans-serif;
+}
+#sk2{
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 230px;
+  left: 15;
+  font-family: sans-serif;
+}
+#sk3{
+
+  position: relative;
+  color: gray;
+  font-size: 12px;
+  top: 240px;
+  left: 15;
+  font-family: sans-serif;
+}
+#sk4{
+
+  position: relative;
+  color: grey;
+  font-size: 12px;
+  top: 250px;
+  left: 15;
+  font-family: sans-serif;
+}
+#am{
+
+    color: #353757;
+  position: relative;
+  bottom: 370px;
+  left: 425px;
+  font-size: 20px;
+}
+#p1{
+
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 380px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#p2{
+
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 380px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#p3{
+
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 380px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#exp{
+
+  color: #353757;
+  position: relative;
+  bottom: 380px;
+  left: 425px;
+  font-size: 20px;
+}
+#exp1{
+
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 380px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#edu{
+  color: #353757;
+  position: relative;
+  bottom: 390px;
+  left: 425px;
+  font-size: 20px;
+}
+.pg{
+
+  position: relative;
+  bottom: 1005px;
+  left: 719px;
+}
+#h{
+  color: black;
+  margin: 35px;
+  text-decoration: none;
+  position: relative;
+  
+
+}
+#h:hover{
+  color: #353757;
+}
+#a{
+  color: black;
+  margin: 35px;
+  text-decoration: none;
+  
+
+}
+#a:hover{
+  color: #353757;
+}
+#p{
+  color: black;
+  margin: 35px;
+  text-decoration: none;
+
+
+}
+#p:hover{
+  color: #353757;
+
+}
+#m{
+  color: black;
+  margin: 35px;
+  text-decoration: none;
+  
+}
+#m:hover{
+  color: #353757;
+}
+#edu1{
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 430px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#edu2{
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 430px;
+  left: 425px;
+  font-family: sans-serif;
+}
+#edu3{
+  position: relative;
+  color: black;
+  font-size: 14px;
+  bottom: 430px;
+  left: 425px;
+  font-family: sans-serif;
+}

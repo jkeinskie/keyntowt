@@ -1,0 +1,201 @@
+
+
+ html{
+
+overflow: hidden;
+ }
+body{
+
+  height: 788px;
+  background-image: linear-gradient(to right,rgba(0,0,0,0.8), rgba(0,0,0,0)),url("/home/bist10/Desktop/jkein html/portfolio project/image/thumb-1920-747506.jpg");
+  background-size: 104%;
+}
+
+.navbar {
+	position: relative;
+  background-color: rgba(0, 0, 0,0.2);
+
+}
+.navbar-link,
+.navbar-nav a{
+	color: lightgrey;
+  position: relative;
+  top: 20px;
+
+}
+.navbar-link,
+.navbar-nav a:hover{
+  color: white;
+}
+
+#collapsibleNavbar{
+
+	display: flex;
+	justify-content: flex-end;
+	margin:20px;
+  height: 35px;
+
+}
+#au{
+	position: relative;
+	right: 130px;
+}
+#au:after{
+
+  content: "";
+  position: absolute;
+  background-color: skyblue;
+  height: 3px;
+  width: 0%;
+  left: 0;
+  bottom: 2px;
+  transition: 0.3s;
+}
+#au:hover:after{
+  width: 100%;
+	color: skyblue;
+}
+#au1{
+	position: relative;
+	right: 90px;
+}
+#au1:after{
+
+  content: "";
+  position: absolute;
+  background-color: skyblue;
+  height: 3px;
+  width: 0%;
+  left: 0;
+  bottom: 2px;
+  transition: 0.3s;
+}
+#au1:hover:after{
+  width: 100%;
+  color: skyblue;
+}
+#au2{
+	position: relative;
+	right: 50px;
+}
+#au2:after{
+
+  content: "";
+  position: absolute;
+  background-color: skyblue;
+  height: 3px;
+  width: 0%;
+  left: 0;
+  bottom: 2px;
+  transition: 0.3s;
+}
+#au2:hover:after{
+  width: 100%;
+  color: skyblue;
+}
+#au3{
+  position: relative;
+  right: 10px;
+
+}
+#au3:after{
+
+  content: "";
+  position: absolute;
+  background-color: skyblue;
+  height: 3px;
+  width: 0%;
+  left: 0;
+  bottom: 2px;
+  transition: 0.3s;
+}
+#au3:hover:after{
+  width: 100%;
+  color: skyblue;
+}
+#lg{
+	position: relative;
+	left: 30px;
+	font-family: serif;
+  font-size: 35px;
+  bottom: px;
+  color: white;
+
+}
+#lg:hover{
+
+	color: white;
+}
+#Growth{
+ position: relative;
+color: whitesmoke;
+font-family: ;
+font-size: 60px;
+left: 150px;
+top: 125px;
+}
+p{
+  color: white;
+  position: relative;
+  top: 135px;
+  left: 150px;
+  font-size: 21px;
+
+}
+#sss{
+  position: relative;
+  bottom: 80px;
+  right: 10px;
+}
+#school{
+
+  width: 40px;
+  height: 40px;
+  position: relative;
+  bottom: 20px;
+  right: 1055px;
+
+}
+#BUT{
+
+  background-color: #FF8080;
+  border-radius: 4px;
+  font-size: 18px;
+  width: 300px;
+  height: 70px;
+  position: relative;
+  left: 150px;
+  top: 70px;
+  padding: 8px;
+  color: white;
+  border: none;
+}
+#BUT:hover{
+
+  background-color: #74E291;
+}
+#section2{
+
+position: relative;
+  top: 278px;
+  height: 788px;
+background-image: linear-gradient(to right,rgba(0,0,0,0.6), rgba(0,0,0,0)), url("/home/bist10/Downloads/joanna-kosinska-7ACuHoezUYk-unsplash.jpg");
+background-size: 105%;
+}
+#shet{
+  position: relative;
+  color: white;
+  bottom: 40px;
+  font-size: 30px;
+
+}
+#welcum{
+
+  position: relative;
+  font-size: 18px;
+  top: 15px;
+  left: 20px;
+}
+#shet1{
+  text-decoration: none;
+}

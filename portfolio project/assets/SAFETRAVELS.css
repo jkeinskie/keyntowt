@@ -1,0 +1,85 @@
+body{
+
+background-image: url('/home/bist10/Desktop/jkein html/portfolio project/image/pedro-lastra-Nyvq2juw4_o-unsplash.jpg');
+background-size: cover;
+
+}
+
+.format{
+
+border-color: black;
+  padding: 50px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+  border-radius: 10px;
+  margin-top: 50px ;
+  position: relative;
+  top: 118px;
+}
+#btn{
+
+  background-color: #1292e2;
+  color: white;
+  width: 150px;
+  position: relative;
+  left: 125px;
+  top: 18px;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+#btn:hover{
+
+  background-color: #0BDA51;
+}
+#email{
+
+  border-color: grey;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+
+}
+#em{
+  color: white;
+}
+#sp{
+
+  color: white;
+  position: relative;
+  top: 5px;
+}
+#ps{
+  color: white;
+}
+#pwd{
+  border-color: grey;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+h2{
+
+  text-align: center;
+  bottom: 20px;
+  position: relative;
+  color: white;
+  font-family: cursive;
+  font-size: 50px;
+}
+h2:hover{
+
+  color: skyblue;
+}
+#ticket{
+
+  color: white;
+  position: relative;
+  bottom: 35px;
+  font-size: 13px;
+  left: 130px;
+  text-decoration: underline;
+}
+#ticket:hover{
+
+  color: lightpink;
+}

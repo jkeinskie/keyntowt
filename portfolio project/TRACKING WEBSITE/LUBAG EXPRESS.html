@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LUBAG EXPRESS</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Custom CSS for Order Tracking */
+    .status {
+      font-weight: bold;
+    }
+    html{
+      overflow: hidden  ;
+    }
+    body{
+      background-color: rgba(0,9,49,.99);
+    }
+    label{
+      color: white;
+    }
+    img{
+      position: relative;
+      right: 70%;
+      bottom: 75px;
+    }
+    #traaa{
+      position: relative;
+      top: 60px;
+      right:  350px;
+    }
+
+    #section2{
+
+position: relative;
+  top: 395px;
+  height: 788px;
+background-color: rgba(0,9,49,.99);
+background-size: 105%;
+}
+#shet{
+  position: relative;
+  color: white;
+  bottom: 40px;
+  font-size: 30px;
+
+}
+#welcum{
+
+  position: relative;
+  font-size: 18px;
+  top: 15px;
+  left: 20px;
+}
+.contain{
+  width: 50%;
+  position: relative;
+  left:  600px;
+  bottom: 925px;
+
+}
+h1{
+  font-size: 25px;
+  padding: 10px;
+}
+ul{
+  font-size: 15px;
+}
+.card-title{
+  font-size: 15px;
+  
+}
+
+
+
+
+  </style>
+
+</head>
+<body>
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">  
+        <nav id="section1">
+        <img src="/home/bist10/Downloads/Free_Sample_By_Wix.jpg">
+      </nav>
+        <form id="traaa">
+          <div class="form-group">
+            <label for="orderNumber"><b>Enter Tracking Number:</b></label>
+            <input type="text" class="form-control" id="orderNumber" placeholder="Tracking Number" required>
+          </div>
+          <button type="button" class="btn btn-primary btn-block">Track Order</button>
+          <button type="button" class="btn btn-success btn-block" onclick="myFunction()">GET MY TRACKING NUMBER</button>
+        </form>
+        <div id="orderStatus" class="mt-4">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="section2" class="container-fluid" style="padding:100px 100px;">
+  <div class="contain mt-3">
+  <div class="card rounded-5" id="bruh">
+    <div class="card-body h-20">
+      <center>
+      <h1><b>DELIVERY DETAILS</b></h1>
+    </center>
+      <div class="card-title">FEBUARY 19TH, 2024</div><hr>
+      <ul>
+    <li><b>Placed order</b><br>6:50 pm. Febuary 19, 2024 </li><hr>
+    <li><b>Shipped</b><br>8:20 pm. Febuary 19, 2024</li><hr>
+    <li><b>On Lubag vehicle for delivery</b><br>10:00 pm. Febuary 19, 2024</li><hr>
+    <li><b>At destination sort facility</b><br>10:30 pm. Febuary 19, 2024</li><hr>
+    <li><b>Arrived at Brgy. Lubag, Enchanted, Leyte</b><br>11:48 pm. Febuary 19, 2024</li><hr></ul>
+    <div class="card-title">FEBUARY 20TH, 2024</div><hr>
+    <ul><li><b>Picked up by Jkein</b><br>3:30 am. Febuary 20, 2024</li><hr>
+    </ul>
+    <button type="button" class="btn btn-primary btn-block">Track Another Order</button>
+  </div>
+  </div>
+</div>
+
+</div>
+<script type="text/javascript">
+ function myFunction() {
+  alert("TANG INA MO MARAMI KANANG ORDER");
+}
+  document.getElementById('btn btn-primary').addEventListener("click", function(){
+    document.querySelector(".contain").style.display = "flex";
+  })
+
+</script>
+</body>
+</html>
